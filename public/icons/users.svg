@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210"
+   height="297"
+   viewBox="0 -50 210 297"
+   version="1.1"
+   id="svg2464"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="users.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2466"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="247.87288"
+     inkscape:cy="660.54407"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2461" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect4714"
+       width="10"
+       height="139.03194"
+       x="167.39859"
+       y="78.997719"
+       ry="12.593474"
+       rx="0"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\Web_Icons\users.png"
+       inkscape:export-xdpi="122.32"
+       inkscape:export-ydpi="122.32" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.156662;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect4714-8"
+       width="10"
+       height="139.04945"
+       x="32.601406"
+       y="78.970345"
+       ry="12.595057"
+       rx="0"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\Web_Icons\users.png"
+       inkscape:export-xdpi="122.32"
+       inkscape:export-ydpi="122.32" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect4714-8-4"
+       width="10"
+       height="144.7334"
+       x="-218.01981"
+       y="32.601406"
+       ry="13.10991"
+       rx="0"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\Web_Icons\users.png"
+       inkscape:export-xdpi="122.32"
+       inkscape:export-ydpi="122.32" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect4714-6"
+       width="10"
+       height="144.55106"
+       x="-88.991112"
+       y="32.75539"
+       ry="13.093394"
+       rx="0"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\Web_Icons\users.png"
+       inkscape:export-xdpi="122.32"
+       inkscape:export-ydpi="122.32"
+       transform="rotate(-90)" />
+    <g
+       style="fill:#000000"
+       id="g2765"
+       transform="matrix(4.1666667,0,0,4.1666667,54.999998,98.5)"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\Web_Icons\users.png"
+       inkscape:export-xdpi="122.32"
+       inkscape:export-ydpi="122.32">
+      <path
+         d="M 0,0 H 24 V 24 H 0 Z"
+         fill="none"
+         id="path2753" />
+      <path
+         d="m 16,11 c 1.66,0 2.99,-1.34 2.99,-3 0,-1.66 -1.33,-3 -2.99,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z M 8,11 C 9.66,11 10.99,9.66 10.99,8 10.99,6.34 9.66,5 8,5 6.34,5 5,6.34 5,8 c 0,1.66 1.34,3 3,3 z m 0,2 C 5.67,13 1,14.17 1,16.5 V 19 H 15 V 16.5 C 15,14.17 10.33,13 8,13 Z m 8,0 c -0.29,0 -0.62,0.02 -0.97,0.05 1.16,0.84 1.97,1.97 1.97,3.45 V 19 h 6 V 16.5 C 23,14.17 18.33,13 16,13 Z"
+         id="path2755" />
+    </g>
+  </g>
+</svg>

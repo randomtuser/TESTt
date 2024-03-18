@@ -1,0 +1,8 @@
+{
+  "new": "Nuevo artículo",
+  "edit": "Editar artículo",
+  "title": "Título",
+  "text": "Texto",
+  "submit": "Enviar",
+  "html": "Puedes agregar código HTML en el cuerpo del texto y se mostrará correctamente. Ten en cuenta que no todos los etiquetas HTML funcionan, pero los estilos sí."
+}

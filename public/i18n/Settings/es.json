@@ -1,0 +1,15 @@
+{
+  "account": "Mi cuenta",
+  "security": "Seguridad",
+  "manage": "Controlar Usuarios",
+  "notifications": "Notificaciones",
+  "support": "Soporte",
+  "darkmode": "Modo Oscuro",
+  "signout": "Cerrar sesión",
+  "owner": "Propietario",
+  "user": "Usuario",
+  "admin": "Administrador",
+  "settings": "Ajustes",
+  "sure": "¿Estás seguro?",
+  "confirmLogout": "Al cerrar la sesión, finalizará su sesión actual y la próxima vez que visite el sitio web, deberá iniciar sesión nuevamente. Cualquier cambio o progreso no guardado puede perderse después de esta acción."
+}

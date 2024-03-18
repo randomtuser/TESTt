@@ -1,0 +1,11 @@
+{
+  "notifications": "Powiadomienia e-mail",
+  "settings": "Ustawienia powiadomień",
+  "email": "E-mail powiadomienia",
+  "number": "Powiadomienia telefoniczne",
+  "receive": "Otrzymuj powiadomienia",
+  "updates": "Otrzymuj natychmiastowe aktualizacje dotyczące wydarzeń drukowania za pośrednictwem SMS lub e-maila.",
+  "info": "Otrzymuj e-maile, aby dowiedzieć się, co się dzieje, gdy nie jesteś online. Możesz to wyłączyć.",
+  "edit": "Edytuj",
+  "submit": "Wyślij"
+}

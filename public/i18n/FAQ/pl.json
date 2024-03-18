@@ -1,0 +1,8 @@
+{
+  "new": "Nowy artykuł",
+  "edit": "Edytuj artykuł",
+  "title": "Tytuł",
+  "text": "Tekst",
+  "submit": "Wyślij",
+  "html": "Możesz dodać kod HTML w treści tekstu, który zostanie wyrenderowany. Pamiętaj, że nie każdy tag HTML działa, ale style tak."
+}

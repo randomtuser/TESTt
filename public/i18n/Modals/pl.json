@@ -1,0 +1,31 @@
+{
+  "sure": "Czy na pewno?",
+  "logout": "Wylogowanie zakończy bieżącą sesję i przy następnej wizycie na stronie konieczne będzie ponowne zalogowanie. Po wykonaniu tej czynności wszelkie niezapisane zmiany lub postępy mogą zostać utracone.",
+  "irreversible": "Tej czynności nie można cofnąć.",
+  "cancel": "Anuluj",
+  "lang": "Języki",
+  "es": "Hiszpański",
+  "en": "Angielski",
+  "pl": "Polski",
+  "pt": "Portugalski",
+  "tk": "Turecki",
+  "notifs": "Powiadomienia",
+  "unread": "Pokaż tylko nieprzeczytane",
+  "showLess": "Pokaż mniej",
+  "showAll": "Pokaż wszystko",
+  "noNotifs": "Nie ma jeszcze powiadomień.",
+  "dismiss": "Odrzuć wszystko",
+
+  "week": "tydzień",
+  "day": "dzień",
+  "hour": "godzina",
+  "minute": "minuta",
+  "hace": "temu",
+  "ago": "",
+  "now": "Właśnie teraz",
+
+  "joinedText": "właśnie dołączył do firmy.",
+  "newMaterialText": "Dodano nowy materiał. Masz teraz",
+  "updateMaterialText": "Zaktualizowano stan magazynowy. Masz teraz",
+  "materialText2": "cm3"
+}

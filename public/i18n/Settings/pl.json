@@ -1,0 +1,14 @@
+{
+  "account": "Moje konto",
+  "security": "Bezpieczeństwo",
+  "manage": "Zarządzanie użytkownikami",
+  "notifications": "Powiadomienia",
+  "support": "FAQ",
+  "darkmode": "Tryb ciemny",
+  "signout": "Wyloguj się",
+  "owner": "Właściciel",
+  "user": "Użytkownik",
+  "admin": "Administrator",
+  "sure": "Czy na pewno?",
+  "confirmLogout": "Wylogowanie zakończy bieżącą sesję i przy następnej wizycie na stronie konieczne będzie ponowne zalogowanie. Po wykonaniu tej czynności wszelkie niezapisane zmiany lub postępy mogą zostać utracone."
+}

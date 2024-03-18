@@ -1,0 +1,11 @@
+{
+  "notifications": "Notificações por e-mail",
+  "settings": "Configurações de notificações",
+  "email": "E-mail de notificação",
+  "number": "SMS Notificações",
+  "receive": "Receber notificações",
+  "updates": "Receba atualizações instantâneas sobre eventos de impressão via SMS e/ou e-mail.",
+  "info": "Receba e-mails para saber o que está acontecendo quando você não está online. Você pode desativar isso.",
+  "edit": "Editar",
+  "submit": "Enviar"
+}

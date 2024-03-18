@@ -1,0 +1,14 @@
+{
+  "account": "Minha Conta",
+  "security": "Segurança",
+  "manage": "Gerenciar Usuários",
+  "notifications": "Notificações",
+  "support": "FAQ",
+  "darkmode": "Modo Escuro",
+  "signout": "Sair",
+  "owner": "Proprietário",
+  "user": "Usuário",
+  "admin": "Administrador",
+  "sure": "Tem certeza?",
+  "confirmLogout": "Sair encerrará sua sessão atual e, da próxima vez que visitar o site, precisará fazer login novamente. Quaisquer alterações ou progresso não salvos podem ser perdidos após esta ação."
+}

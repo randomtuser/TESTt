@@ -1,0 +1,31 @@
+{
+  "sure": "Estás seguro?",
+  "logout": "Al cerrar la sesión, finalizará su sesión actual y la próxima vez que visite el sitio web, deberá iniciar sesión nuevamente. Cualquier cambio o progreso no guardado puede perderse después de esta acción.",
+  "irreversible": "Esta acción no puede ser deshecha.",
+  "cancel": "Cancelar",
+  "lang": "Idiomas",
+  "es": "Español",
+  "en": "Inglés",
+  "pl": "Polaco",
+  "pt": "Portugués",
+  "tk": "Turco",
+  "notifs": "Notificaciones",
+  "unread": "Sólo no leídas",
+  "showLess": "Mostrar menos",
+  "showAll": "Mostrar todas",
+  "noNotifs": "No hay ninguna notificación.",
+  "dismiss": "Marcar todas como leídas",
+
+  "week": "semana",
+  "day": "dia",
+  "hour": "hora",
+  "minute": "minuto",
+  "hace": "Hace",
+  "ago": "",
+  "now": "Justo ahora",
+
+  "joinedText": "acaba de unirse a la compañía.",
+  "newMaterialText": "Un nuevo material ha sido añadido. Ahora, tienes",
+  "updateMaterialText": "Tu inventario se ha actualizado. Ahora, tienes",
+  "materialText2": "cm3 de"
+}

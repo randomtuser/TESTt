@@ -1,0 +1,8 @@
+{
+  "new": "Yeni makale",
+  "edit": "Makaleyi düzenle",
+  "title": "Başlık",
+  "text": "Metin",
+  "submit": "Gönder",
+  "html": "Metin içinde HTML kodu ekleyebilirsiniz ve render edilecektir. Ancak her HTML etiketi çalışmayabilir, stil ise çalışır."
+}

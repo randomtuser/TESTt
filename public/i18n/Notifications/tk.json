@@ -1,0 +1,11 @@
+{
+  "notifications": "E-posta bildirimleri",
+  "settings": "Bildirim Ayarları",
+  "email": "Bildirim E-postası",
+  "number": "SMS Bildirimleri",
+  "receive": "Bildirimleri Al",
+  "updates": "SMS ve/veya e-posta yoluyla anlık güncellemeleri alın.",
+  "info": "Çevrimdışıyken neler olduğunu öğrenmek için e-posta alın. Bunları kapatabilirsiniz.",
+  "edit": "Düzenle",
+  "submit": "Gönder"
+}

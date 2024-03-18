@@ -1,0 +1,15 @@
+{
+  "account": "My Account",
+  "security": "Security",
+  "manage": "Manage Users",
+  "notifications": "Notifications",
+  "support": "FAQ",
+  "darkmode": "Dark Mode",
+  "signout": "Sign out",
+  "owner": "Owner",
+  "user": "User",
+  "admin": "Admin",
+  "settings": "Settings",
+  "sure": "Are You Sure?",
+  "confirmLogout": "Logging out will end your current session and next time you visit the website you will need to log in again. Any unsaved changes or progress may be lost after this action."
+}
