@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='email']:focus ~ .input-email,
+input[type='email']:not(:placeholder-shown) ~ .input-email {
+  @apply -translate-y-9 -translate-x-3 scale-75 transform bg-[#99999]  text-blue-50/25;
+}
+input[type='text']:focus ~ .input-text,
+input[type='text']:not(:placeholder-shown) ~ .input-text {
+  @apply -translate-y-9 -translate-x-3 scale-75 transform bg-[#99999] text-blue-50/25;
+}
+input[type='password']:focus ~ .input-text,
+input[type='password']:not(:placeholder-shown) ~ .input-text {
+  @apply -translate-y-9 -translate-x-3 scale-75 transform bg-[#99999]  text-blue-50/25;
+}
+
+.slide-enter {
+  opacity: 0;
+  transform: translateX(100%);
+}
+.slide-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 1000ms, transform 1000ms;
+}
+.slide-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+.slide-exit-active {
+  opacity: 0;
+  transform: translateX(100%);
+  transition: opacity 1000ms, transform 1000ms;
+}
+
+.headers-slide-enter {
+  opacity: 0;
+  transform: translateX(150%);
+}
+.headers-slide-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 500ms, transform 500ms;
+}
+.headers-slide-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+.headers-slide-exit-active {
+  opacity: 0;
+  transform: translateX(150%);
+  transition: opacity 500ms, transform 500ms;
+}
+
+.sidebar-slide-enter {
+  opacity: 0;
+  transform: translateX(-100%);
+}
+.sidebar-slide-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 500ms, transform 500ms;
+}
+.sidebar-slide-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+.sidebar-slide-exit-active {
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: opacity 500ms, transform 500ms;
+}
