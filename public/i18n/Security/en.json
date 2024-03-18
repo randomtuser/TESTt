@@ -1,0 +1,8 @@
+{
+  "heading": "Please enter your current password to change your password",
+  "currentPassword": "Current Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm New Password",
+  "cancel": "Cancel",
+  "submit": "Submit"
+}

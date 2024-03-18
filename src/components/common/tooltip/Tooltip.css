@@ -1,0 +1,44 @@
+.tooltip-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+  left: 50%;
+  transform: translateX(-50%);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  hyphens: auto;
+  max-width: 300px;
+  width: 300px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  bottom: calc(100% + 10px); /* Ajusta la posición vertical del tooltip */
+}
+
+.tooltip::before,
+.tooltip::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid gray; /* Cambia la dirección de la flecha */
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.tooltip::after {
+  margin-top: -1px;
+}
+
+.tooltip-container:hover .tooltip {
+  opacity: 1;
+}

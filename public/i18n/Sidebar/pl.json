@@ -1,0 +1,21 @@
+{
+  "overview": "Przegląd",
+  "foundries": "Odlewnie",
+  "printers": "Drukarki",
+  "alloys": "Stopów",
+  "crucibles": "Kuźnie",
+  "navigation": "Nawigacja",
+  "logout": "Wyloguj się",
+  "owner": "Właściciel",
+  "user": "Użytkownik",
+  "admin": "Administrator",
+  "internaladmin": "Administrator wewnętrzny",
+  "settings": "Ustawienia",
+  "account": "Konto",
+  "security": "Bezpieczeństwo",
+  "users": "Użytkownicy",
+  "notifications": "Powiadomienia",
+  "faq": "FAQ",
+  "privacy": "Polityka",
+  "about": "O nas"
+}

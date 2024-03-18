@@ -1,0 +1,31 @@
+{
+  "sure": "Emin misiniz?",
+  "logout": "Çıkış yaptığınızda mevcut oturumunuz sona erecek ve web sitesini bir sonraki ziyaretinizde tekrar giriş yapmanız gerekecek. Bu eylemden sonra kaydedilmemiş tüm değişiklikler veya ilerlemeler kaybolabilir.",
+  "irreversible": "Bu işlem geri alınamaz.",
+  "cancel": "İptal",
+  "lang": "Diller",
+  "es": "İspanyolca",
+  "en": "İngilizce",
+  "pl": "Polonya",
+  "pt": "Portekizce",
+  "tk": "Türkçe",
+  "notifs": "Bildirimler",
+  "unread": "Sadece okunmamışları göster",
+  "showLess": "Daha az göster",
+  "showAll": "Tümünü göster",
+  "noNotifs": "Henüz bildirim yok.",
+  "dismiss": "Tümünü kapat",
+
+  "week": "hafta",
+  "day": "gün",
+  "hour": "saat",
+  "minute": "dakika",
+  "hace": "önce",
+  "ago": "",
+  "now": "Şu anda",
+
+  "joinedText": "şirkete yeni katıldı.",
+  "newMaterialText": "Yeni bir malzeme eklendi. Şimdi",
+  "updateMaterialText": "Stok güncellendi. Şimdi",
+  "materialText2": "cm3 sahipsiniz"
+}

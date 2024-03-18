@@ -1,0 +1,8 @@
+{
+  "heading": "Por favor, digite sua senha atual para alterar sua senha",
+  "currentPassword": "Senha atual",
+  "newPassword": "Nova senha",
+  "confirmPassword": "Confirmar nova senha",
+  "cancel": "Cancelar",
+  "submit": "Enviar"
+}

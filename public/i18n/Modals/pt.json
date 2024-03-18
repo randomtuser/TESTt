@@ -1,0 +1,31 @@
+{
+  "sure": "Tem certeza?",
+  "logout": "Sair encerrará sua sessão atual e, da próxima vez que visitar o site, precisará fazer login novamente. Quaisquer alterações ou progresso não salvos podem ser perdidos após esta ação.",
+  "irreversible": "Esta ação não pode ser desfeita.",
+  "cancel": "Cancelar",
+  "lang": "Idiomas",
+  "es": "Espanhol",
+  "en": "Inglês",
+  "pl": "Polonês",
+  "pt": "Português",
+  "tk": "Turco",
+  "notifs": "Notificações",
+  "unread": "Mostrar apenas não lidas",
+  "showLess": "Mostrar menos",
+  "showAll": "Mostrar todas",
+  "noNotifs": "Ainda não há notificações.",
+  "dismiss": "Ignorar todas",
+
+  "week": "semana",
+  "day": "dia",
+  "hour": "hora",
+  "minute": "minuto",
+  "hace": "",
+  "ago": "atrás",
+  "now": "Agora mesmo",
+
+  "joinedText": "acabou de ingressar na empresa.",
+  "newMaterialText": "Um novo material foi adicionado. Agora você tem",
+  "updateMaterialText": "Seu estoque foi atualizado. Agora você tem",
+  "materialText2": "cm3 de"
+}

@@ -1,0 +1,21 @@
+{
+  "overview": "Vista General",
+  "foundries": "Fundiciones",
+  "printers": "Impresoras",
+  "alloys": "Aleaciones",
+  "crucibles": "Crisoles",
+  "navigation": "Navegación",
+  "logout": "Cerrar sesión",
+  "owner": "Propietario",
+  "user": "Usuario",
+  "admin": "Administrador",
+  "internaladmin": "Administrador interno",
+  "settings": "Ajustes",
+  "account": "Cuenta",
+  "security": "Seguridad",
+  "users": "Usuarios",
+  "notifications": "Notificaciones",
+  "faq": "FAQ",
+  "privacy": "Política",
+  "about": "Acerca de"
+}

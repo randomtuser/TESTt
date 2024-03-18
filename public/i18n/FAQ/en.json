@@ -1,0 +1,8 @@
+{
+  "new": "New article",
+  "edit": "Edit article",
+  "title": "Title",
+  "text": "Text",
+  "submit": "Submit",
+  "html": "You can add HTML code in the body of the text and it will get rendered. Keep in mind that not every HTML tag works, but style does."
+}

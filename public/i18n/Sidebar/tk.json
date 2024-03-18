@@ -1,0 +1,21 @@
+{
+  "overview": "Genel Bakış",
+  "foundries": "Dökümhaneler",
+  "printers": "Yazıcılar",
+  "alloys": "Alaşımlar",
+  "crucibles": "Kazanlar",
+  "navigation": "Gezinme",
+  "logout": "Çıkış Yap",
+  "owner": "Sahip",
+  "user": "Kullanıcı",
+  "admin": "Yönetici",
+  "internaladmin": "İç Yönetici",
+  "settings": "Ayarlar",
+  "account": "Hesap",
+  "security": "Güvenlik",
+  "users": "Kullanıcılar",
+  "notifications": "Bildirimler",
+  "faq": "S.S.S.",
+  "privacy": "Politika",
+  "about": "Hakkında"
+}

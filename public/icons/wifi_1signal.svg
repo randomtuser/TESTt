@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583333"
+   version="1.1"
+   id="svg1044"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="wifi_1signal.svg"
+   inkscape:export-filename="C:\Users\MM3D\Desktop\wifi_1signal.png"
+   inkscape:export-xdpi="74.879997"
+   inkscape:export-ydpi="74.879997"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1046"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="5.9223906"
+     inkscape:cx="8.3581113"
+     inkscape:cy="21.275193"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1041" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#fdffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.838;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path1826"
+       sodipodi:type="arc"
+       sodipodi:cx="5.1132898"
+       sodipodi:cy="7.8739967"
+       sodipodi:rx="0.95846391"
+       sodipodi:ry="0.95846391"
+       sodipodi:start="0.16009399"
+       sodipodi:end="0.15386858"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 6.0594972,8.0267864 A 0.95846391,0.95846391 0 0 1 4.961973,8.8204407 0.95846391,0.95846391 0 0 1 4.1666115,7.724153 0.95846391,0.95846391 0 0 1 5.26166,6.9270863 0.95846391,0.95846391 0 0 1 6.06043,8.020893"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\wifi_1signal.png"
+       inkscape:export-xdpi="74.879997"
+       inkscape:export-ydpi="74.879997" />
+    <path
+       style="fill:none;stroke:#757272;stroke-width:1.03219;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.1782754,3.9446145 C 4.2298558,1.5114746 6.9213713,1.9118955 9.405058,3.9478286"
+       id="path2427"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\wifi_full.png"
+       inkscape:export-xdpi="74.879997"
+       inkscape:export-ydpi="74.879997" />
+    <path
+       style="fill:none;stroke:#757272;stroke-width:1.03219;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.9622874,5.7657746 C 3.0672098,5.6877176 3.1719169,5.6145303 3.2764052,5.5462855 4.742975,4.5884197 6.1664933,4.6042382 7.5380288,5.7956768"
+       id="path2803"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\MM3D\Desktop\222.png"
+       inkscape:export-xdpi="74.879997"
+       inkscape:export-ydpi="74.879997" />
+  </g>
+</svg>

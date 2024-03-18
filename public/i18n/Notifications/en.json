@@ -1,0 +1,22 @@
+{
+  "notifications": "Email Notifications",
+  "settings": "Notifications Settings",
+  "email": "Notification Email",
+  "number": "SMS Notifications",
+  "receive": "Receive Notifications",
+  "updates": "Receive instant updates on print event via SMS and/or Email.",
+  "info": "Get email or SMS notifications to find out what’s going on when you’re not online. You can turn them off at any time.",
+  "edit": "Edit",
+  "submit": "Submit",
+  "onlyRead": "Show only unread",
+  "dismiss": "Dismiss all",
+  "showAll": "Show all",
+  "showLess": "Show less",
+  "nothing": "There aren't notifications yet.",
+  "minute": "minute",
+  "hour": "hour",
+  "day": "day",
+  "week": "week",
+  "now": "Just now",
+  "ago": "ago"
+}

@@ -1,0 +1,22 @@
+{
+  "notifications": "Notificaciones por email",
+  "settings": "Configuración de notificaciones",
+  "email": "Correo electrónico para notificaciones",
+  "number": "SMS Notificaciones",
+  "receive": "Recibir notificaciones",
+  "updates": "Recibir actualizaciones instantáneas sobre eventos de impresión a través de SMS y/o correo electrónico.",
+  "info": "Recibe correos electrónicos para mantenerte informado sobre lo que sucede cuando no estás en línea.",
+  "edit": "Editar",
+  "submit": "Enviar",
+  "onlyRead": "Mostrar solo no leídos",
+  "dismiss": "Descartar todo",
+  "showAll": "Mostrar todo",
+  "showLess": "Mostrar menos",
+  "nothing": "No hay notificaciones todavía.",
+  "minute": "minuto",
+  "hour": "hora",
+  "day": "día",
+  "week": "semana",
+  "now": "Justo ahora",
+  "ago": "hace"
+}

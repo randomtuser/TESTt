@@ -1,0 +1,14 @@
+{
+  "account": "Hesabım",
+  "security": "Güvenlik",
+  "manage": "Kullanıcıları Yönet",
+  "notifications": "Bildirimler",
+  "support": "S.S.S.",
+  "darkmode": "Karanlık Mod",
+  "signout": "Çıkış Yap",
+  "owner": "Sahibi",
+  "user": "Kullanıcı",
+  "admin": "Yönetici",
+  "sure": "Emin misiniz?",
+  "confirmLogout": "Çıkış yaptığınızda mevcut oturumunuz sona erecek ve web sitesini bir sonraki ziyaretinizde tekrar giriş yapmanız gerekecek. Bu eylemden sonra kaydedilmemiş tüm değişiklikler veya ilerlemeler kaybolabilir."
+}

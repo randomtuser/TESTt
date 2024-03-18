@@ -1,0 +1,21 @@
+{
+  "overview": "Overview",
+  "foundries": "Foundries",
+  "printers": "Printers",
+  "alloys": "Alloys",
+  "crucibles": "Crucibles",
+  "navigation": "Navigation",
+  "logout": "Log out",
+  "owner": "Owner",
+  "user": "User",
+  "admin": "Admin",
+  "internaladmin": "Internal admin",
+  "settings": "Settings",
+  "account": "Account",
+  "security": "Security",
+  "users": "Users",
+  "notifications": "Notifications",
+  "faq": "FAQ",
+  "privacy": "Policy",
+  "about": "About"
+}
